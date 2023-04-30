@@ -1,0 +1,3 @@
+Ok, I created this my calling my text editor and inputting the name i prefer.
+Example:
+notepad kel_Xx
